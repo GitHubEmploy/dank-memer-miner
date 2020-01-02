@@ -1,0 +1,8 @@
+INFO:
+Dank Memer Miner was made to mine auto with the dank memer miner bot. The AHK file is a file that needs to be ran with Auto Hot 
+Key if you don't feel safe downloding the exe file. I would be scared too
+
+AHK file runner: https://www.autohotkey.com/
+
+Please report any issues to the discord
+Code: HYKdMAs
